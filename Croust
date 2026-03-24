@@ -1,0 +1,10 @@
+# 1. Téléchargez le code du Management UI
+# 2. Ouvrez Terminal/PowerShell dans le dossier téléchargé
+# 3. Exécutez ces commandes :
+
+git init
+git add .
+git commit -m "Initial commit: Crous't Wok app"
+git branch -M main
+git remote add origin https://github.com/Junsko29/croustwok.git
+git push -u origin main
