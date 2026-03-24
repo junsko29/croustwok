@@ -1,0 +1,6 @@
+{
+  "buildCommand": "pnpm run build && pnpm run dev:metro -- --web",
+  "outputDirectory": ".expo/web",
+  "framework": "expo",
+  "nodeVersion": "22.x"
+}
